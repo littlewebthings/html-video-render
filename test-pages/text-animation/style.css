@@ -1,0 +1,21 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	background: #333;
+	color: white;
+}
+
+body {
+	width: 640px;
+	height: 480px;
+}
+
+h1 {
+	font-size: 50pt;
+	text-align: center;
+	margin-top: 100px;
+}
+
+.anim {
+	-webkit-animation-duration: 9s !important;
+}
